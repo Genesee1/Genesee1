@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Genesee1
+- 👋 Hi, I’m @Julie
 - 👀 I’m interested in computer programming
 - - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on how to learn Python to work with Data
